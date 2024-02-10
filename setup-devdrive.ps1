@@ -1,0 +1,1 @@
+fsutil devdrv trust "E:"
